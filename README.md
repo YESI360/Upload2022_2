@@ -1,5 +1,5 @@
 # Upload2022_2
-version liviana sin objetos 3D del bosque
+version liviana sin objetos 3D del bosque SIN ORDENAR!
 ------sin problemas con load level--------
 
 >>>>MANOS CINTURA
